@@ -1,0 +1,23 @@
+{
+  "name": "typescript_project",
+  "version": "1.0.0",
+  "description": "This is my first project using Typescript. I entend to practice the main functions that it offers and apply them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebansant/typescript_project.git"
+  },
+  "keywords": [],
+  "author": "Esteban Santiago <estebansant30@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estebansant/typescript_project/issues"
+  },
+  "homepage": "https://github.com/estebansant/typescript_project#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
