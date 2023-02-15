@@ -5,6 +5,7 @@
   customerAge = customerAge + 1;
   console.log('Customer Age:', customerAge);
 
+  // Error done on purpose
   let productsInStock: number;
   console.log('Products In Stock:', productsInStock);
   if (productsInStock > 10){
