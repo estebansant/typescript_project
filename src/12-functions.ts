@@ -1,12 +1,12 @@
 (() => {
-  type Syzes = 'S' | 'M' | 'L' | 'XL';
+  type Sizes = 'S' | 'M' | 'L' | 'XL';
 
   // normal function
   function createProductToJSON (
     title: string,
     createdAt: Date,
     stock: number,
-    size: Syzes,
+    size: Sizes,
   ) {
     return {
       title,
@@ -28,7 +28,7 @@
     title: string,
     createdAt: Date,
     stock: number,
-    size?: Syzes
+    size?: Sizes
   ) => {
     return {
       title,
