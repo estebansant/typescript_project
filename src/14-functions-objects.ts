@@ -11,6 +11,7 @@
   })
 
   const products: any[] = [];
+
   const addProduct = (data: {
     title: string,
     createdAt: Date,
