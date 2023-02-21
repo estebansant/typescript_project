@@ -3,7 +3,7 @@
   let userId: UserID
 
   // Literal types
-  type Syzes = 'S' | 'M' | 'L' | 'XL'
+  type Syzes = 'S' | 'M' | 'L' | 'XL';
   let shirtSize: Syzes;
   shirtSize = 'S';
   shirtSize = 'L';
